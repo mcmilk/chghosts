@@ -1,0 +1,13 @@
+#
+# /etc/hosts: static lookup table for host names
+#
+
+#<ip-address>	<hostname.domain.org>	<hostname>
+127.0.0.1	localhost.localdomain	localhost myhost
+::1		localhost.localdomain	localhost
+
+172.217.22.110 m.youtube.com
+216.58.207.46 www.youtube.com
+172.217.23.138 youtube.googleapis.com
+172.217.21.202 youtubei.googleapis.com
+172.217.18.174 www.youtube-nocookie.com
